@@ -15,3 +15,5 @@ export const API_PREFIX = '/api'
 export const LOCALE_COOKIE_NAME = 'locale'
 
 export const DEFAULT_VALUE_MAX_LEN = 48
+export const APP_ID = '067e756a-74a6-49c9-99e9-9cc80bbbbb98'
+export const API_KEY = '<Web API Key From Dify>'
